@@ -1,6 +1,5 @@
 [![MasterHead](github-header-image.png)
-<h1 align="center">Hi 👋, I'm Saptak</h1>
-<h3 align="center">A passionate Web 3.0 developer from Bangladesh</h3>
+<h1 align="center">A passionate Web 3.0 developer from Bangladesh</h3>
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 <br><br>
