@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saptak</h1>
 <h3 align="center">A passionate Web 3.0 developer from Bangladesh</h3>
 
+<img align="right" alt ="sap" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fby_tag%2F36127&psig=AOvVaw2g-Z3DbMaaWSVGH_cpZKJp&ust=1696255126127000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjpu5SB1YEDFQAAAAAdAAAAABAJ">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptakbro&label=Profile%20views&color=0e75b6&style=flat" alt="saptakbro" /> </p>
 
 - 🌱 I’m currently learning **Blockchain**
