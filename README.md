@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saptak</h1>
-<h3 align="center">A passionate Web 3.0 developer from Bangladesh🇧🇩</h3>
+<h3 align="center">A passionate Web 3.0 developer from Bangladesh</h3>
 
 <img align="right" alt ="sap" width="400" src="https://github.com/Saptakbro/Saptakbro/assets/142655066/c93502e6-e24f-474c-9625-d8f52894ce56">
 
