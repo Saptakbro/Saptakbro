@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptakbro&label=Profile%20views&color=0e75b6&style=flat" alt="saptakbro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saptakbro" alt="saptakbro" /></a> </p>
-
 - 🌱 I’m currently learning **Blockchain => Solidity;Hardhat;Foundry;Truffle**
 
 - 📫 How to reach me **saptakt07@gmail.com**
