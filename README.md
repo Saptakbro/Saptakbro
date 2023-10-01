@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saptak</h1>
 <h3 align="center">A passionate Web 3.0 developer from Bangladesh</h3>
 
-<img align="right" alt ="sap" width="400" src="https://github.com/Saptakbro/Saptakbro/assets/142655066/c93502e6-e24f-474c-9625-d8f52894ce56">
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptakbro&label=Profile%20views&color=0e75b6&style=flat" alt="saptakbro" /> </p>
 
-- 🌱 I’m currently learning **Blockchain => Solidity;Hardhat;Foundry;Truffle**
+- 🌱 I’m currently learning **Blockchain => Solidity, Hardhat, Foundry, Truffle**
 
 - 📫 How to reach me **saptakt07@gmail.com**
 
